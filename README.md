@@ -1,6 +1,6 @@
 # Crypto Fear & Greed Index Scraper
 
-Este projeto realiza web scraping em dois sites para capturar os índices de "Crypto Fear & Greed" e "CBBI Confidence Score". Ele coleta essas informações diariamente e exibe os valores no console.
+Este projeto realiza web scraping em dois sites para capturar os índices de "Crypto Fear & Greed" e "CBBI Confidence Score". Ele coleta essas informações diariamente e exibe os valores no console. A ideia é depois enviar automaticamente por e-mail.
 
 ## Funcionalidades
 
